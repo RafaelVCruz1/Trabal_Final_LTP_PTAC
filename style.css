@@ -1,0 +1,61 @@
+body{
+  
+  background-color: #c7d0e1;
+  color: black;
+  font-family: Calibri;
+  width: 60%;
+  margin: auto;
+  box-shadow: 5px 5px 50px 8px #25528e;
+}
+
+.container{
+  background-color: #bdcdff;
+  border: 1px solid #6a80a4;
+}
+
+
+
+.data_pub{
+  margin-top: -18px; 
+  margin-bottom: 40px;
+}
+
+.titulo{
+  margin-top: -20px; 
+} 
+
+.nome{
+  margin-bottom: -45px; 
+}
+
+.autor{
+  margin-top: -8px; 
+}
+
+img{
+  width: 100%;
+  heigh: 100%;
+}
+
+.nome {
+  margin-bottom: 20px;
+  
+}
+
+a{
+  color: #002270;
+  text-decoration: none;
+}
+
+#tituloTopo{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.listaDeNoticias{
+    background: linear-gradient(to bottom, #a4b5ea, #bdcdff);
+ 
+}
+
+
+
