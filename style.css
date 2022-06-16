@@ -1,5 +1,4 @@
 body{
-  
   background-color: #c7d0e1;
   color: black;
   font-family: Calibri;
@@ -12,8 +11,6 @@ body{
   background-color: #bdcdff;
   border: 1px solid #6a80a4;
 }
-
-
 
 .data_pub{
   margin-top: -18px; 
@@ -39,7 +36,6 @@ img{
 
 .nome {
   margin-bottom: 20px;
-  
 }
 
 a{
@@ -54,8 +50,4 @@ a{
 
 .listaDeNoticias{
     background: linear-gradient(to bottom, #a4b5ea, #bdcdff);
- 
 }
-
-
-
